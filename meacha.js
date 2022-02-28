@@ -41,4 +41,4 @@ window.onload = function(){
 } botao()
 }
 
-// export { resultadoCep, dadosCep, btn, cep , localidade, logadouro, bairro, botao};
+ export { resultadoCep, dadosCep, btn, cep , localidade, logadouro, bairro, botao};
