@@ -1,3 +1,6 @@
+
+
+
 import{ resultadoCep, dadosCep, cep, localidade, logadouro, bairro, btn, botao} from "./meacha.js"
 
 resultadoCep(dadosCep);

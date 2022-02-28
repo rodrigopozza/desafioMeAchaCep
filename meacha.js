@@ -1,4 +1,4 @@
-window.onload = function(){
+
 
 
   function resultadoCep (dadosCep){
@@ -39,6 +39,6 @@ window.onload = function(){
         dadosCep(cep.value);
     })     
 } botao()
-}
 
- export { resultadoCep, dadosCep, btn, cep , localidade, logadouro, bairro, botao};
+
+  export { resultadoCep, dadosCep, btn, cep , localidade, logadouro, bairro, botao};
