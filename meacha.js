@@ -18,7 +18,7 @@
         let dadosJson =  await dadosFetch.json();
         resultadoCep(dadosJson)
     }catch(error){
-        alert(error);
+        console.log(error);
     }
    
    
